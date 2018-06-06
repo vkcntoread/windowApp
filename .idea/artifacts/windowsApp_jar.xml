@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="windowsApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/windowsApp_jar</output-path>
+    <root id="archive" name="windowsApp.jar">
+      <element id="module-output" name="windowsApp" />
+    </root>
+  </artifact>
+</component>
